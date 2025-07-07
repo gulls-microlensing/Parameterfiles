@@ -1,1 +1,1 @@
-# FM_MCMC
+# Parameterfile input for gulls simulation
